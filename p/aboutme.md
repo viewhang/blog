@@ -1,6 +1,6 @@
 # 关于作者
 
-## 林志鑫
+## XXX
 ![](image/avatar.jpg)
 > amen2020
 
@@ -14,12 +14,12 @@
 
 > 如果对于博客有什么建议欢迎你跟我联系：
 
-- wechat: lzx89757
+- wechat: XXXX
 
   ![](image/wechat.jpg)
 
-- QQ: 243943679
+- QQ: 1111
 
-- email: 243943679@qq.com
+- email: 111@qq.com
 
-- tel: 江门联通13048161026/汕头移动13415012786
+[苏ICP备17018455号-1](https://beian.miit.gov.cn/#/Integrated/index)
