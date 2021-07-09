@@ -1,4 +1,4 @@
-# [我的个人博客](https://jigesoft.cn/blog/)
+# [我的个人博客](https://jigesoft.cn)
 > amen2020出品
 
 - [Markdown文档](projects/markdown/index.md)
